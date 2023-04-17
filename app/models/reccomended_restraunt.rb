@@ -1,0 +1,2 @@
+class ReccomendedRestraunt < ApplicationRecord
+end
