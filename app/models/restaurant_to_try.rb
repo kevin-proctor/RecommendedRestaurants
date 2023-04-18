@@ -1,0 +1,2 @@
+class RestaurantToTry < ApplicationRecord
+end
